@@ -2,6 +2,7 @@
 
 int main() {
     int i, j;
+     printf("Multiplication Table:\n");
     printf("\n     ");
     for (i = 1; i <= 10; i++) {
         printf("%4d", i);
