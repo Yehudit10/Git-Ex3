@@ -14,6 +14,6 @@ int main() {
         for (j = 1; j <= 10; j++) {
             printf("%4d", i * j); 
         }
-        printf("\n"); 
+        printf("\nABconflictOK"); 
     }
 }
