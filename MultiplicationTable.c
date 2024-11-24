@@ -2,7 +2,7 @@
 
 int main() {
     int i, j;//change from yehudit- auto-solved conflict
-     printf("Multiplication Table:\n");
+     printf("Multiplication Table:\n");//AB change
     printf("AB change:\n");
     printf("\n     ");
     for (i = 1; i <= 10; i++) {
