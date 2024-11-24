@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int i, j;
+    int i, j;//change from yehudit- auto-solved conflict
      printf("Multiplication Table:\n");
     printf("AB change:\n");
     printf("\n     ");
